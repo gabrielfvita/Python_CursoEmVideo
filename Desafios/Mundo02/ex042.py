@@ -1,6 +1,6 @@
-l1 = float(input('Digite a medida do primeiro lado:'))
-l2 = float(input('Digite a medida do segundo lado:'))
-l3 = float(input('Digite a medida do terceiro lado:'))
+l1 = float(input('Digite a medida do primeiro lado: '))
+l2 = float(input('Digite a medida do segundo lado: '))
+l3 = float(input('Digite a medida do terceiro lado: '))
 
 if l1 == l2 == l3:
     tipo = 'Equilátero'
