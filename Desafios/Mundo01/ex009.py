@@ -1,4 +1,5 @@
 n = int(input('Digite um número para descobrir a tabuada :'))
+
 print('Segue abaixo a tabuada do número:', n)
 print('1x{} = {}'.format(n,n*1))
 print('2x{} = {}'.format(n,n*2))
