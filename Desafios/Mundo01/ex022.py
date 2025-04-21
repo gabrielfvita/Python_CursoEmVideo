@@ -3,6 +3,7 @@ maiusculo = nome.upper()
 minusculo = nome.lower()
 qtd_letras = len(nome)
 dividido = nome.split()
+
 print('O seu nome em letras maiúsculas é: {}'.format(maiusculo))
 print('O seu nome em letras minúsculas é: {}'.format(minusculo))
 print('Seu nome possúi {} letras'.format(qtd_letras))
