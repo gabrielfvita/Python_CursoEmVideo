@@ -1,0 +1,9 @@
+# Ignorar a pasta da IDE JetBrains
+.idea/
+
+# Ignorar ambientes virtuais
+.venv/
+env/
+
+# Ignorar arquivos do macOS
+.DS_Store
