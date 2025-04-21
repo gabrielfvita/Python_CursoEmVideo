@@ -1,5 +1,6 @@
 num = int(input('Digite o número a ser convertido: '))
 opcao = int(input('Informe qual será a base de conversão: \n 1 - Binário \n 2 - Octal \n 3 - Hexadecimal \n'))
+
 if opcao == 1:
     print(f'{num} convertido para é Binário igual a {bin(num)[2:]}')
 elif opcao == 2:
