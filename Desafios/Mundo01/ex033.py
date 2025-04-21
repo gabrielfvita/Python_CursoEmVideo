@@ -1,6 +1,6 @@
-n1 = int(input('Digite o primeiro numero'))
-n2 = int(input('Digite o segundo numero'))
-n3 = int(input('Digite o terceiro numero'))
+n1 = int(input('Digite o primeiro numero: '))
+n2 = int(input('Digite o segundo numero: '))
+n3 = int(input('Digite o terceiro numero: '))
 
 # Verificando o menor número
 if n1<n2 and n1<n3:
