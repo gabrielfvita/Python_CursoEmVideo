@@ -1,4 +1,4 @@
-nome = str(input('Digite seu nome completo:')).strip()
+nome = str(input('Digite seu nome completo: ')).strip()
 nome = nome.capitalize()
 dividido = nome.split()
 print('Primeiro nome: {}'.format(dividido[0]))
