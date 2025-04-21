@@ -1,5 +1,5 @@
 valor = float(input('Informe o valor da casa: '))
-salario = float (input('Informe o seu salário:'))
+salario = float (input('Informe o seu salário: '))
 anos = int(input('Em quantos anos pretende pagar a casa?'))
 
 meses = anos * 12
