@@ -14,4 +14,4 @@ elif pagamento == 4:
 else:
     print('Você não digitou uma opção válida')
 
-print(f'O valor total do produto é de: R$ {preco:.2f}')
+print(f'O valor final do produto é de: R$ {preco:.2f}')

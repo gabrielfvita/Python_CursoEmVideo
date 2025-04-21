@@ -3,6 +3,8 @@ ano = int(input('Informe seu ano de nascimento: '))
 
 idade = date.today().year - ano
 
+print(f'Você tem {idade} anos')
+
 if idade < 18:
     restante = 18 - idade
     print(f'Você precisará se alistar ao serviço militar daqui {restante} ano(s)!')

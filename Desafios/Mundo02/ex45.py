@@ -1,11 +1,10 @@
-from random import randint
+from time import sleep
 from random import choice
 
 escolha_usuario = int(input(' 1 - Pedra \n 2 - Papel \n 3 - Tesoura \n Informe o número da sua escolha: '))
 
 opcoes = ['Pedra', 'Papel', 'Tesoura']
 escolha_computador = choice(opcoes)
-print(escolha_computador)
 
 if escolha_usuario == 1 and escolha_computador == 'Pedra':
     resultado = 'O jogo empatou!'
@@ -37,7 +36,13 @@ elif escolha_usuario == 3:
 else:
     escolha_usuario = 'Opção inválida'
 
-print('------ Jokenpô ------')
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PO!!!')
+print('-------')
 print(f'Você: {escolha_usuario}')
 print(f'Computador: {escolha_computador}')
+print('-------')
 print(f'RESULTADO: {resultado}')
