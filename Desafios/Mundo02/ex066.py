@@ -7,4 +7,4 @@ while True:
     else:
         soma += n
         contador += 1
-print(f'A soma dos {contador} números é igual a: {soma}')
+print(f'A soma dos {contador} números é igual a: {soma}!')
