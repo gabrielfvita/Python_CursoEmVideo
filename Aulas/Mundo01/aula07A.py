@@ -1,5 +1,5 @@
-n1 = int(input('Diga um valor'))
-n2 = int(input('Diga outro valor'))
+n1 = int(input('Diga um valor: '))
+n2 = int(input('Diga outro valor: '))
 soma = n1+n2
 multip = n1*n2
 div = n1/n2
