@@ -15,4 +15,5 @@ else:
         termo_atual = fibonacci_atual
         linha += f' -> {fibonacci_atual}'
         cont += 1
+        
 print(linha)
