@@ -12,4 +12,4 @@ while resposta != 0:
         print(f'a{cont} = {termo}')
         termo += razao
         c += 1
-print('PA Finalizada!')
+print('PA Finalizada')
