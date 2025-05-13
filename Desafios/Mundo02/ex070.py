@@ -22,6 +22,7 @@ while True:
         continuar = str(input('Opção inválida. Deseja continuar? (S/N) ')).upper()
     if continuar == 'N':
         break
+    
 print('-=' * 30)
 print(f'Total gasto = R${total:.2f}')
 print(f'Total de produtos que custam mais de R$1000: {produtos_mais_mil}')
