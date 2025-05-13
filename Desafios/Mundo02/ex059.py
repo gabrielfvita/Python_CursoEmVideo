@@ -27,4 +27,4 @@ while opcao != 5:
     elif opcao == 5:
         print('Saindo do programa...')
     else:
-        print('Você digitou uma opção inválida. Tente novamente')
+        print('Você digitou uma opção inválida. Tente novamente...')
