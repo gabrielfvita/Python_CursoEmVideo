@@ -16,7 +16,7 @@ while resposta == 'S':
             menor = num
     soma += num
     contador += 1
-    resposta = str(input('Deseja incluir outro valor? (S/N)')).upper()
+    resposta = str(input('Deseja incluir outro valor? (S/N)' )).upper()
 
 media = soma / contador
 
