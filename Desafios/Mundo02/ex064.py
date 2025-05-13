@@ -10,4 +10,4 @@ while num != 999:
         contador += 1
         soma += num
 
-print(f'Você digitou {contador} numeros. \nA soma entre todos eles é: {soma}')
+print(f'Você digitou {contador} numeros.\nA soma entre todos eles é: {soma}')
