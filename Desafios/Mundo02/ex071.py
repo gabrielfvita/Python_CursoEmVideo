@@ -17,5 +17,4 @@ if notas10 > 0:
     print(f'Total de {notas10} cédulas de R$10')
 if notas1 > 0:
     print(f'Total de {notas1} cédulas de R$1')
-
 print('-----------------------')
