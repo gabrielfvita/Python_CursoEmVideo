@@ -29,4 +29,4 @@ while True:
 print('------ FIM DO PROGRAMA ------')
 print(f'Total de pessoas com mais de 18 anos: {maior18}')
 print(f'Ao todo, temos {homens} homens cadastrados')
-print(f'E temos {mulheres_menos_vinteanos} mulheres com menos de 20 anos')
+print(f'E temos {mulheres_menos_vinteanos} mulheres com menos de 20 anos.')
