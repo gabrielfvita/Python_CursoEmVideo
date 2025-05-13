@@ -32,4 +32,4 @@ while True:
         print('Você PERDEU!')
         print('-=' * 30)
         break
-print(f'GAME OVER! Você venceu {contador} vezes.')
+print(f'GAME OVER! Você venceu {contador} vezes!')
