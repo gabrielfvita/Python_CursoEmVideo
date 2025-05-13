@@ -2,7 +2,7 @@ while True:
     n = int(input('Quer ver a tabuada de qual valor? '))
     if n < 0:
         print('=-' * 15)
-        print('Programa encerrado. Volte sempre!')
+        print('Programa encerrado! Volte sempre.')
         break
     else:
         print('=-' * 15)
